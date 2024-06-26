@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Assignment Submitted by:
-# # FARSANA
-
 # # Data Extraction using BeautifulSoup
 
 # In[1]:
